@@ -1,1 +1,1 @@
-typescript<br>import React from 'react';<br>import ReactDOM from 'react-dom/client';<br><br>ReactDOM.createRoot(document.getElementById('root')!).render(<br> <React.StrictMode><br> <h1 style={{ color: 'green' }}>IT IS FINALLY WORKING!</h1><br> </React.StrictMode>,<br>);<br>
+// typescript<br>import React from 'react';<br>import ReactDOM from 'react-dom/client';<br><br>ReactDOM.createRoot(document.getElementById('root')!).render(<br> <React.StrictMode><br> <h1 style={{ color: 'green' }}>IT IS FINALLY WORKING!</h1><br> </React.StrictMode>,<br>);<br>
