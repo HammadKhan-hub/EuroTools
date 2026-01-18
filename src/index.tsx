@@ -1,2 +1,1 @@
-typescript<br>import React from 'react';<br>import ReactDOM from 'react-dom/client';<br>import './index.css';<br><br>ReactDOM.createRoot(document.getElementById('root')!).render(<br> <React.StrictMode><br> <h1>Hello, World! My App is Live!</h1><br> </React.StrictMode>,<br>);
-<br></br>
+typescript<br> import React from 'react';<br> import ReactDOM from 'react-dom/client';<br> import './index.css';<br><br> ReactDOM.createRoot(document.getElementById('root')!).render(<br> <React.StrictMode><br> <h1 className="text-3xl font-bold text-blue-600">Hello Tailwind! My App is Live!</h1><br> </React.StrictMode>,<br> );<br></br>

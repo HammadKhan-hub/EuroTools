@@ -1,0 +1,1 @@
+javascript<br>/** @type {import('tailwindcss').Config} */<br>export default {<br> content: [<br> "./index.html",<br> "./src/**/*.{js,ts,jsx,tsx}",<br> ],<br> theme: {<br> extend: {},<br> },<br> plugins: [],<br>}<br></br>
